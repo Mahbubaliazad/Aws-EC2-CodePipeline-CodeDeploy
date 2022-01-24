@@ -1,8 +1,6 @@
-# Learn With Sandip
+# Learn With Mahbub
 
 ## Microservices CI/CD With Terraform, AWS CodePipeline + AWS CodeCommit + AWS CodeBuild + AWS ECS
-
-[![N|Solid](https://learn.sandipdas.in/wp-content/uploads/sites/2/2021/08/Untitled-design-2.png)](https://learn.sandipdas.in/)
 
 This project help you set up end to end CI/CD With AWS CI/CD Tools for your Amazon ECS Applications using Terraform
 
@@ -10,10 +8,6 @@ This project help you set up end to end CI/CD With AWS CI/CD Tools for your Amaz
 - Using easy to to understand Terraform Code, makes cocepts much clear
 - Application Source Codes e.g. NodeJs, Python, Go app source codes also available, so you can get started esily and quickly 👍
 
-[Watch FULL FREE Video Tutorial here](https://www.youtube.com/watch?v=CjjSBWMwOzA)
-
- [Sandip Das]: <https://www.linkedin.com/in/sandip-das-developer>
-This Project Designed and developed by [Sandip Das]
 
 ## Tech
 
